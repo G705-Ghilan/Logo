@@ -5,8 +5,6 @@ import curses
 
 from pyfiglet import Figlet
 
-from shapes import round, numbers
-
 # you can change this verible !
 FROM: int = 1
 TO: int = 5
